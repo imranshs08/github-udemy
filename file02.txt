@@ -1,2 +1,4 @@
 This is file no 2
-ANother line
+
+A
+Nother line
